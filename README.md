@@ -14,6 +14,7 @@ magento-resources
  * http://www.excellencemagentoblog.com/
  * http://fabrizio-branca.de/magento.html
  * https://github.com/colinmollenhour/
+ * https://github.com/netz98/n98-magerun
  * https://github.com/rgranadino/Interactive-Magento-Console
  * http://magebase.com/
  * http://magedevguide.com/
