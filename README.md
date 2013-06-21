@@ -9,6 +9,8 @@ magento-resources
  * http://ecomdev.org/
  * http://eschrade.com/page/category/magento-2/
  * http://inchoo.net/
+ * http://www.nicksays.co.uk/magento/
+ * http://www.excellencemagentoblog.com/
  * http://fabrizio-branca.de/magento.html
  * https://github.com/colinmollenhour/
  * http://magebase.com/
