@@ -6,6 +6,7 @@ magento-resources
  * http://alanstorm.com/category/magento
  * http://aschroder.com/category/magento/
  * http://blog.belvg.com/tag/magento-certification
+ * http://demacmedia.com/category/magento-commerce/
  * http://ecomdev.org/
  * http://eschrade.com/page/category/magento-2/
  * http://inchoo.net/
@@ -13,7 +14,11 @@ magento-resources
  * http://www.excellencemagentoblog.com/
  * http://fabrizio-branca.de/magento.html
  * https://github.com/colinmollenhour/
+ * https://github.com/rgranadino/Interactive-Magento-Console
  * http://magebase.com/
+ * http://magedevguide.com/
+ * http://magestudyguide.com/
+ * http://magento-quickies.tumblr.com/
  * http://magento.stackexchange.com/
  * http://magentocommerce.com/certification/moderators-kit
  * http://magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento
@@ -21,6 +26,7 @@ magento-resources
  * http://magentocommerce.com/whitepaper/
  * http://nexcess.net/magento-best-practices-whitepaper
  * http://stackoverflow.com/questions/tagged/magento*
+ * http://tweetorials.tumblr.com/
  * http://twitter.com/
   * [@alanstorm](http://twitter.com/alanstorm)
   * [@benmarks](http://twitter.com/benmarks)
