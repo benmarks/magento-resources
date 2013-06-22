@@ -28,6 +28,7 @@ magento-resources
  * http://nexcess.net/magento-best-practices-whitepaper
  * http://stackoverflow.com/questions/tagged/magento*
  * http://tweetorials.tumblr.com/
+ * http://www.classyllama.com/blog
  * http://twitter.com/
   * [@alanstorm](http://twitter.com/alanstorm)
   * [@benmarks](http://twitter.com/benmarks)
