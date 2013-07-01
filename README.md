@@ -29,6 +29,7 @@ magento-resources
  * http://stackoverflow.com/questions/tagged/magento*
  * http://tweetorials.tumblr.com/
  * http://www.classyllama.com/blog
+ * http://www.blog.magepsycho.com/
  * http://twitter.com/
   * [@alanstorm](http://twitter.com/alanstorm)
   * [@benmarks](http://twitter.com/benmarks)
