@@ -13,6 +13,7 @@ magento-resources
  * http://www.nicksays.co.uk/magento/
  * http://www.excellencemagentoblog.com/
  * http://fabrizio-branca.de/magento.html
+ * http://fishpig.co.uk/magento/tutorials/
  * https://github.com/colinmollenhour/
  * https://github.com/netz98/n98-magerun
  * https://github.com/rgranadino/Interactive-Magento-Console
