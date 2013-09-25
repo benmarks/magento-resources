@@ -32,6 +32,7 @@ magento-resources
  * http://twitter.com/
   * [@alanstorm](http://twitter.com/alanstorm)
   * [@benmarks](http://twitter.com/benmarks)
+  * [@IvanChepurnyi](http://twitter.com/IvanChepurnyi)
   * [@monocat](http://twitter.com/monocat)
   * [@vinaikopp](http://twitter.com/vinaikopp)
 
