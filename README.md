@@ -7,6 +7,7 @@ magento-resources
  * http://aschroder.com/category/magento/
  * http://blog.belvg.com/tag/magento-certification
  * http://demacmedia.com/category/magento-commerce/
+ * https://docs.google.com/a/copiousinc.com/presentation/d/1rHM7LOfzgfol6FEijLjlCpTBPaYJlMbI-WPpZL59Dng/edit
  * http://ecomdev.org/
  * http://eschrade.com/page/category/magento-2/
  * http://inchoo.net/
@@ -14,6 +15,7 @@ magento-resources
  * http://www.excellencemagentoblog.com/
  * http://fabrizio-branca.de/magento.html
  * http://fishpig.co.uk/magento/tutorials/
+ * https://gist.github.com/parhamr/6177160
  * https://github.com/colinmollenhour/
  * https://github.com/netz98/n98-magerun
  * https://github.com/rgranadino/Interactive-Magento-Console
