@@ -26,8 +26,11 @@ magento-resources
  * http://nexcess.net/magento-best-practices-whitepaper
  * http://stackoverflow.com/questions/tagged/magento*
  * http://twitter.com/
-  * [@alanstorm](http://twitter.com/alanstorm)
   * [@benmarks](http://twitter.com/benmarks)
-  * [@IvanChepurnyi](http://twitter.com/IvanChepurnyi)
-  * [@monocat](http://twitter.com/monocat)
-  * [@vinaikopp](http://twitter.com/vinaikopp)
+People
+----------
+[Ben Marks](https://twitter.com/benmarks)
+
+[Alan Kent](https://twitter.com/akent99)
+
+[Elena Leonova](https://twitter.com/elena_a_leonova)
