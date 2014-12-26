@@ -6,8 +6,6 @@ magento-resources
  * http://eschrade.com/page/category/magento-2/
  * http://www.excellencemagentoblog.com/
  * https://gist.github.com/parhamr/6177160
- * https://github.com/netz98/n98-magerun
- * https://github.com/rgranadino/Interactive-Magento-Console
  * http://magento.stackexchange.com/
  * http://magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento
  * http://magentocommerce.com/resources/magento-user-guide
@@ -15,6 +13,13 @@ magento-resources
  * http://stackoverflow.com/questions/tagged/magento*
  * http://twitter.com/
   * [@benmarks](http://twitter.com/benmarks)
+[N98 Magerun](https://github.com/netz98/n98-magerun)
+
+[Interactive Magento Console](https://github.com/rgranadino/Interactive-Magento-Console)
+
+[Modman](https://github.com/colinmollenhour/modman)
+
+
 Blogs
 ----------
 [Inchoo](http://inchoo.net/magento/)
