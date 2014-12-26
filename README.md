@@ -15,10 +15,8 @@ magento-resources
  * https://gist.github.com/parhamr/6177160
  * https://github.com/netz98/n98-magerun
  * https://github.com/rgranadino/Interactive-Magento-Console
- * http://magestudyguide.com/
  * http://magento-quickies.tumblr.com/
  * http://magento.stackexchange.com/
- * http://magentocommerce.com/certification/moderators-kit
  * http://magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento
  * http://magentocommerce.com/resources/magento-user-guide
  * http://magentocommerce.com/whitepaper/
@@ -36,3 +34,10 @@ People
 [Magento Best Practices](http://www.nexcess.net/resources/white-papers/magento-best-practices)
 
 [Magento PHP Developer's Guide](http://magedevguide.com/)
+
+
+Become Certified
+----------
+[Magento Certified Developer study guide](http://magestudyguide.com/)
+
+[Moderators Kit](http://magento.com/training/catalog/moderators-kit)
