@@ -3,19 +3,11 @@ magento-resources
 
 ## A list of learning resources &amp; tools for Magento developers
 
- * http://alanstorm.com/category/magento
- * http://aschroder.com/category/magento/
- * http://blog.belvg.com/tag/magento-certification
- * http://demacmedia.com/category/magento-commerce/
  * http://eschrade.com/page/category/magento-2/
- * http://inchoo.net/
- * http://www.nicksays.co.uk/magento/
  * http://www.excellencemagentoblog.com/
- * http://fabrizio-branca.de/magento.html
  * https://gist.github.com/parhamr/6177160
  * https://github.com/netz98/n98-magerun
  * https://github.com/rgranadino/Interactive-Magento-Console
- * http://magento-quickies.tumblr.com/
  * http://magento.stackexchange.com/
  * http://magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento
  * http://magentocommerce.com/resources/magento-user-guide
@@ -23,6 +15,23 @@ magento-resources
  * http://stackoverflow.com/questions/tagged/magento*
  * http://twitter.com/
   * [@benmarks](http://twitter.com/benmarks)
+Blogs
+----------
+[Inchoo](http://inchoo.net/magento/)
+
+[Belvg](http://blog.belvg.com/tag/magento-certification)
+
+[Demac Media](http://www.demacmedia.com/category/magento-commerce/)
+
+[Nick Says](https://www.nicksays.co.uk/magento/)
+
+[Fabrizio Banca](http://fbrnc.net/blog/tag:Magento)
+
+[Magento Quickies](http://magento-quickies.alanstorm.com/)
+
+[Alan Storm](http://alanstorm.com/category/magento)
+
+
 People
 ----------
 [Ben Marks](https://twitter.com/benmarks)
