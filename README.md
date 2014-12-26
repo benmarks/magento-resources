@@ -1,20 +1,8 @@
 magento-resources
 =================
 
-
-Resources for Developers
+Creating themes
 --------
-[Magento for Developers Guide](http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento)
-
-[Magento Module Creator](http://www.silksoftware.com/magento-module-creator/#.VIb2IdWUfAV)
-
-[Online Magento Sandbox](http://stargento.com/)
-
-
-Resources for creating themes
---------
-[Magento The Right Way](https://magentotherightway.com/)
-
 [Magento Themes from scratch](http://magento.stackexchange.com/questions/3780/theming-starting-from-scratch)
 
 [Introducing Magento Layout](http://www.smashingmagazine.com/2012/11/30/introducing-magento-layout/)
@@ -37,12 +25,20 @@ Misc
 
 [Magento on Reddit](http://www.reddit.com/r/magento)
 
+[Magento The Right Way](https://magentotherightway.com/)
+
+
+Tools
+---------
 [N98 Magerun](https://github.com/netz98/n98-magerun)
 
 [Interactive Magento Console](https://github.com/rgranadino/Interactive-Magento-Console)
 
 [Modman](https://github.com/colinmollenhour/modman)
 
+[Magento Module Creator](http://www.silksoftware.com/magento-module-creator/#.VIb2IdWUfAV)
+
+[Online Magento Sandbox](http://stargento.com/)
 
 Blogs
 ----------
@@ -79,6 +75,8 @@ Gists
 
 Books
 ----------
+[Magento for Developers Guide](http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento)
+
 [Magento Best Practices](http://www.nexcess.net/resources/white-papers/magento-best-practices)
 
 [Magento PHP Developer's Guide](http://magedevguide.com/)
