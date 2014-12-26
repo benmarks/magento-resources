@@ -36,25 +36,3 @@ magento-resources
   * [@IvanChepurnyi](http://twitter.com/IvanChepurnyi)
   * [@monocat](http://twitter.com/monocat)
   * [@vinaikopp](http://twitter.com/vinaikopp)
-
-### Presentations
-
----
-
-**["Scaling Magento"](https://docs.google.com/a/copiousinc.com/presentation/d/1rHM7LOfzgfol6FEijLjlCpTBPaYJlMbI-WPpZL59Dng/edit)**
-*Presented at MagentoLive UK 2013*
- * [Related gist](https://gist.github.com/parhamr/6177160)
- * Codebase analysis
- * Catalog description
- * Traffic examples
- * Listing of Magento modules used
- * Hardware information
-  * Configurations
-  * Performance (system, Redis, and MySQL)
-  * Utilization
- * Magento information
-  * Configurations (nginx, PHP, local.xml
-  * Virtual hosts
-
----
-   
